@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+
+# Setup
+title:        Project or Site name
+tagline:      A responsive theme for your project on GitHub Pages
+paginate:     1
+
+# About/contact
+author:
+  name:       Kai Bakker
+  url:        http://yourhomepage.com 
